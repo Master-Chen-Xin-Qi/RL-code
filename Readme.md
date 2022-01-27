@@ -6,5 +6,5 @@
 - 作业2：Q-Learning
 - 作业3：DQN
 - 作业4：A3C
-- 大作业：
+- 大作业：final project
 
